@@ -32,7 +32,7 @@ Traceback (most recent call last):
 AssertionError: False is not true : your file cannot be found (HINT: make sure your file are in the correct directory)
 
 ----------------------------------------------------------------------
-Ran 10 tests in 0.048s
+Ran 10 tests in 0.044s
 
 FAILED (failures=1)
 OPS445 Lab Report - System Information for running ./CheckLab2.py
@@ -44,5 +44,5 @@ OPS445 Lab Report - System Information for running ./CheckLab2.py
     Python version:  3.12.3 (main, Mar 23 2026, 19:04:32) [GCC 13.3.0]
     OS Platform: linux
     Working Directory: /home/aalghafri/ops445/lab-2-A7MD1977
-    Start at: Fri May 15 14:56:51 2026
+    Start at: Fri May 15 14:59:38 2026
 =================================================================
